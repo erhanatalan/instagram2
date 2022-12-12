@@ -112,7 +112,7 @@ footer {
   color: #8e8e8e;
   font-size: 12px;
   height: 40px;
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 .fodiv a {
   text-decoration: none;
@@ -128,5 +128,10 @@ p {
   padding-right: 15px;
 }
 main {
-  margin-bottom: 5%;
+  margin-bottom: 160px;
+
+}
+
+#lounge{
+  border: none;
 }
